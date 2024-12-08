@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.foto {
+    float: right;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+h1, h2 {
+    color: #4CAF50;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+ul, ol {
+    margin-left: 20px;
+}
