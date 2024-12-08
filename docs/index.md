@@ -35,7 +35,6 @@
 
 - [Activitats sobre Javscript bàsic](LMI/Activitats_sobre_Javscript_bàsic)
 
-- [Activitats sobre Material Mkdocs](LMI/
-Activitats_sobre_Material_Mkdocs)
+- [Activitats sobre Material Mkdocs](LMI/Activitats_sobre_Material_Mkdocs)
 
 
