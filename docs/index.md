@@ -27,7 +27,7 @@
 
 - [Identificació dels espais de noms en documents (AndroidManifest.xml). Aquest article es podria combinar amb l'anterior.](LMI/Document_2.md)
 
-- [Activitats d'HTML](docs/LMI/Exercicis_html_i_css)
+- [Activitats d'HTML](EricMinana/Diari-de-classe/docs/LMI/Exercicis_html_i_css)
 
 
 
