@@ -19,6 +19,10 @@
 
 - [Comflicte d'interessos. ](EDD/Document_6.md)
 
+- [Activitats sobre Ant i Maven](EDD/Activitats_sobre_Ant_i_Maven)
+
+- [Activitats: Mkdocs i publicació en Github](EDD/Activitats_Mkdocs_i_publicació_en_Github)
+
 
 ## LMI
 
@@ -29,6 +33,9 @@
 
 - [Activitats d'HTML](LMI/Exercicis_html_i_css)
 
+- [Activitats sobre Javscript bàsic](LMI/Activitats_sobre_Javscript_bàsic)
 
+- [Activitats sobre Material Mkdocs](LMI/
+Activitats_sobre_Material_Mkdocs)
 
 
