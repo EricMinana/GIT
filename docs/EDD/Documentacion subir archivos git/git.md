@@ -95,4 +95,4 @@ commit ceb9fb01bc934ff738e3c3eaa7dbd7b7db921d85
 Author: EricMinana <erimincot@alu.edu.gva.es>
 Date:   Mon Nov 11 09:20:51 2024 +0100
 
-![alt text](Screenshot_20241216_095211.png)
+![alt text](Screenshot_20241216_095211.png) 
